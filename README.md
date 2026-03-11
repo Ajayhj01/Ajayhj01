@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ajay H J</h1>
 <h3 align="center">Passionate Web Developer from India 🇮🇳</h3>
 
-<p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Web+Developer;Backend+Developer;React+Developer;Data+Analytics+Enthusiast" />
-</p>
 
 ---
 
@@ -11,114 +9,96 @@
 
 - 🎓 MSc Computer Science (Final Year) – The Oxford College of Science  
 - 💼 Web Developer Intern at Infotact Solutions  
+- 💡 Interested in **Web Development, Backend Development & Data Analytics**  
 - 🌱 Currently learning **Advanced Backend Development & Scalable Systems**
-- 💡 Interested in **Web Development, Backend Development & Data Analytics**
 
 ---
 
-## 🚀 Tech Stack
+# 🧠 Skills
 
-### 🌐 Frontend
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
-</p>
-
-### ⚙️ Backend
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
-
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🛠 Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-</p>
+![HTML](https://img.shields.io/badge/HTML-HTML5-orange?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-CSS3-blue?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-JS-yellow?style=for-the-badge&logo=javascript)
+![React](https://img.shields.io/badge/React-ReactJS-blue?style=for-the-badge&logo=react)
+![Java](https://img.shields.io/badge/Java-Java-red?style=for-the-badge&logo=java)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-Spring-green?style=for-the-badge&logo=spring)
+![NodeJS](https://img.shields.io/badge/NodeJS-Node-green?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-Database-green?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql)
+![Git](https://img.shields.io/badge/Git-VersionControl-orange?style=for-the-badge&logo=git)
 
 ---
 
-## 📂 Featured Project
+# 🚀 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,java,spring,nodejs,express,mysql,mongodb,git,github,vscode" />
+
+---
+
+# 📂 Featured Project
 
 ### 🍽 Integrated Food Delivery & Dine-Out Platform
 
-A full-stack web application designed to simplify food ordering, restaurant reservations, and hospitality services.
+Full-stack web application for food ordering, restaurant management, and table reservations.
 
 **Tech Stack**
-- Java
-- Spring Boot
-- React.js
-- MySQL
+
+- Java  
+- Spring Boot  
+- React.js  
+- MySQL  
 
 **Features**
-- Restaurant menu browsing
-- Online food ordering
-- Table reservation system
-- Microservices-based backend
+
+- Restaurant menu browsing  
+- Online food ordering  
+- Table reservation system  
+- Backend microservices architecture  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=Ajayhj01&show_icons=true&theme=tokyonight" />
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajayhj01&theme=tokyonight" />
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajayhj01&layout=compact&theme=tokyonight" />
 
 ---
 
-## 👀 Profile Views
+# 🏆 GitHub Achievements
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=Ajayhj01&theme=onedark&row=1&column=6" />
 
 ---
 
-## 📫 Connect With Me
+# 👀 Profile Views
 
-<p>
+<img src="https://komarev.com/ghpvc/?username=Ajayhj01&label=Profile%20Views&color=0e75b6&style=flat" />
+
+---
+
+# 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajayhj01&theme=tokyo-night" />
+
+---
+
+# 💡 Developer Quote
+
+"Code is like humor. When you have to explain it, it’s bad."
+
+---
+
+# 📫 Connect With Me
+
 <a href="https://www.linkedin.com/in/ajay-h-j">
 <img src="https://img.shields.io/badge/LinkedIn-AjayHJ-blue?style=for-the-badge&logo=linkedin" />
 </a>
-</p>
 
 📧 Email: **gowdaajay342@gmail.com**
 
 ---
 
-## 🐍 Contribution Snake
-
-```yaml
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: YOUR_GITHUB_USERNAME
-          outputs: dist/github-contribution-grid-snake.svg
-
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+⭐ Always eager to learn new technologies and collaborate on exciting projects.
